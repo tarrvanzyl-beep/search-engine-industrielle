@@ -1,0 +1,20 @@
+search-engine-industrielle/
+│
+├── backend/
+│   ├── database/
+│   ├── analytics/
+│   ├── suppliers/
+│   ├── utils/
+│   ├── routes/
+│   └── ai/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   │   ├── admin/
+│   │   │   └── supplier/
+│   └── public/
+│
+├── .github/
+│   └── workflows/
